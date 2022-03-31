@@ -8,6 +8,7 @@
 <br/>
   
 <div style="display: inline_block"><br>  
+  <img align="center" alt="Italo-Python" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> <!--Angular-->
   <img align="center" alt="Italo-Csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <!-- Delph -->
   <img align="center" alt="Italo-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
   <img align="center" alt="Italo-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- C++ -->
