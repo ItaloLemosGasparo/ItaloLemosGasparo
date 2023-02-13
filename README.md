@@ -1,4 +1,4 @@
-### Hi there, my name i Ítalo Lemos 👋
+### Hi there, my name Ítalo Lemos 👋
 
 <div align="center">
   <a href="https://github.com/ItaloLemosGasparo">
