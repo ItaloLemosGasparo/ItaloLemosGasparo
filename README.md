@@ -8,15 +8,14 @@
 <br/>
   
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Italo-Python" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> <!--Angular-->
-  <img align="center" alt="Italo-Csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <!-- Delph -->
-  <img align="center" alt="Italo-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
-  <img align="center" alt="Italo-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- C++ -->
-  <img align="center" alt="Italo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <!-- C++ -->
-  <img align="center" alt="Italo-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> <!-- Java -->
-  <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
-  <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!--Python-->
-  <img align="right" alt="Italo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/691084689385062460/948670647150706749/551E.webp">
+  <img align="center" alt="Italo-Delhp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <!-- Delph -->
+  <img align="center" alt="Italo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <!-- C# -->
+  <img align="center" alt="Italo-.Net" height="30" width="30" src="https://play-lh.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk"> <!-- .Net Framework -->
+  <img align="center" alt="Italo-SQL" height="30" width="30" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png"> <!-- SQL -->  
+  <img align="center" alt="Italo-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> <!-- Java -->
+  <img align="center" alt="Italo-Golang" height="30" width="30" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png"> <!-- Golang -->
+  
+  <img align="right" alt="Italo-pic" height="150" style="border-radius:50px;" src="https://smokeinairplanes.wordpress.com/wp-content/uploads/2017/09/a22d5247d9e3b9ea17d816a56f4a39ec.gif?w=500">
 </div>
   
   ##
